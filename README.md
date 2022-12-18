@@ -1,4 +1,4 @@
-# g1 minesweeper
+# h1 minesweeper
 Exercise minesweeper
 Documented exercise to create game
   Steps executed:
