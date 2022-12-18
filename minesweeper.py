@@ -1,7 +1,7 @@
 
 
-#h1 minesweeper exercise in Python
-## h2 Douglas Nunes
+# minesweeper exercise in Python
+## Douglas Nunes
 #definitions
 #create the board and plant the bombs
 #show the board and ask where to dig
@@ -16,6 +16,7 @@ import re #The re.search() method takes a regular expression pattern and a strin
 #######################################################
 #construct the board and plant the bombs#
 #######################################################
+
 class Board:
     def __init__(self, board_size, bombs): #define dimensions  of the board and the number of the bombs it will be created on the game
         
@@ -162,7 +163,8 @@ def play(dim_size=10, num_bombs=10):
            
     if safe:
         print("You Win!")
-    else:
+
+        else:
         print("GAME OVER :(")
         
         board.dug = [(r,c) for r in range(board.dim_size) for c in range(board.dim_size)] # Open the entire board
