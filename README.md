@@ -1,21 +1,11 @@
 
 ---
 
-# Minesweeper Game 8-)
-
-
-
-## Horizontal Rules
-
+# Minesweeper Game 
 ___
 
----
 
-***
-
-## Lists
-
-Requirements
+**Requirements**
 
 + Definitions
   - Create the board and plant the bombs
