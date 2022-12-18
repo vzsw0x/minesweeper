@@ -1,7 +1,7 @@
 
 
-#minesweeper exercise in Python
-#Douglas Nunes
+#h1 minesweeper exercise in Python
+## h2 Douglas Nunes
 #definitions
 #create the board and plant the bombs
 #show the board and ask where to dig
